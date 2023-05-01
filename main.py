@@ -23,7 +23,7 @@ query = input("How did you workout?")
 nutritionix_api_parameters = {
     "query": query,
     "gender": "male",
-    "weight_kg": 122.00,
+    "weight_kg": 95.00,
     "height_cm": 185.00,
     "age": 44
 }
